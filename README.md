@@ -4,6 +4,29 @@ Hey, I'm Vitalii  👋
 - 🌱 I’m currently learning react
 - ⚡ Always keen to learn a new stuff
 - 📫 How to reach me: vtl.mrg@gmail.com
+- 💬 About me..
+
+  class About extends Me {
+
+  function getCurrentWorkplace() {
+    return {
+      workplace: {
+        company: "Zeltwanger Holding GmbH",
+        position: "System engineer"
+      }
+    };
+  }
+  
+  function getTechSkills() {
+    return {
+      code: ['HTML5', 'CSS3', "SCSS", 'Javascript'],
+      tools: ['React', 'Styled-Components', 'Shell',"Git","Webpack"],
+    };
+  }
+
+};
+    
+
 
 <!--
 **vmorgunov/vmorgunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
