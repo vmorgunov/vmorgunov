@@ -6,9 +6,11 @@ Hey, I'm Vitalii  👋
 - 📫 How to reach me: vtl.mrg@gmail.com
 - 💬 About me..
 
+
   class About extends Me {
 
-  function getCurrentWorkplace() {
+  function getCurrentWorkplace(): array 
+  {
     return {
       workplace: {
         company: "Zeltwanger Holding GmbH",
@@ -17,7 +19,8 @@ Hey, I'm Vitalii  👋
     };
   }
   
-  function getTechSkills() {
+  function getTechSkills(): array 
+  {
     return {
       code: ['HTML5', 'CSS3', "SCSS", 'Javascript'],
       tools: ['React', 'Styled-Components', 'Shell',"Git","Webpack"],
