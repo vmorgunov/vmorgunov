@@ -6,10 +6,11 @@ Hey, I'm Vitalii  👋
 - 📫 How to reach me: vtl.mrg@gmail.com
 - 💬 About me..
 
+```php
 
   class About extends Me {
 
-  function getCurrentWorkplace(): array 
+  function getCurrentWorkplace() 
   {
     return {
       workplace: {
@@ -19,8 +20,7 @@ Hey, I'm Vitalii  👋
     };
   }
   
-  function getTechSkills(): array 
-  {
+  function getTechSkills() {
     return {
       code: ['HTML5', 'CSS3', "SCSS", 'Javascript'],
       tools: ['React', 'Styled-Components', 'Shell',"Git","Webpack"],
@@ -28,6 +28,8 @@ Hey, I'm Vitalii  👋
   }
 
 };
+
+```
     
 
 
