@@ -1,8 +1,13 @@
-### Hi there 👋
+Hey, I'm Vitalii  👋
+
+- 🔭 I’m currently working as an IT administrator and want to switch my profile to Full-stack developer
+- 🌱 I’m currently learning react
+- ⚡ Always keen to learn a new stuff
+- 📫 How to reach me: vtl.mrg@gmail.com
 
 <!--
 **vmorgunov/vmorgunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
