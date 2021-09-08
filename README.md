@@ -15,7 +15,7 @@ Hey, I'm Vitalii  👋
     return {
       workplace: {
         company: "Zeltwanger Holding GmbH",
-        position: "System engineer"
+        position: "IT Administrator"
       }
     };
   }
