@@ -1,6 +1,6 @@
 Hey, I'm Vitalii  👋
 
-- 🔭 I’m currently working as a System Engineer and want to switch my profile to Full-stack developer
+- 🔭 I’m currently working as a System Engineer
 - 🌱 I’m currently learning react
 - ⚡ Always keen to learn a new stuff
 - 📫 How to reach me: vtl.mrg@gmail.com
