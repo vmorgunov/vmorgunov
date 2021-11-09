@@ -1,36 +1,10 @@
 Hey, I'm Vitalii  👋
 
-- 🔭 I’m currently working as an IT-Systemadministrator
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working as an IT-Systemengineer
+- 🌱 I’m currently learning node.js
 - ⚡ Always keen to learn a new stuff
 - 📫 How to reach me: vtl.mrg@gmail.com
-- 💬 About me..
 
-```php
-
-  class About extends Me {
-
-  function getCurrentWorkplace() 
-  {
-    return {
-      workplace: {
-        company: "Zeltwanger Holding GmbH",
-        position: "IT-Systemadministrator"
-      }
-    };
-  }
-  
-  function getTechSkills() {
-    return {
-      code: ['HTML5', 'CSS3', "SCSS", 'Javascript'],
-      tools: ['React', 'Styled-Components', 'Shell', "Git", "Webpack", "Redux",],
-    };
-  }
-
-};
-
-```
-    
 
 
 <!--
