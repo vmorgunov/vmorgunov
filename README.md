@@ -1,9 +1,7 @@
 Hey, I'm Vitalii  👋
 
 - 🔭 I’m currently working as an IT-Systemengineer
-- 🌱 I’m currently learning node.js
-- ⚡ Always keen to learn a new stuff
-- 📫 How to reach me: vtl.mrg@gmail.com
+- Deep diver to docker & scripting
 
 
 
