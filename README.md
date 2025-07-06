@@ -1,21 +1,9 @@
-Hey, I'm Vitalii  👋
+## 👋 Hi there, I'm Vitalii!
 
-- 🔭 I’m currently working as an IT-Systemengineer
-- Deep diver to docker & scripting
+🚀 **IT System Engineer** with a passion for automation and building smart solutions.
 
+- 🤖 **Bot & automation enthusiast** – I love making things run themselves!
+- 🛠️ **Deep diver into Docker & scripting** (Bash, PowerShell, Python)
+- 💡 Always exploring new tech, cloud, and DevOps tools
 
-
-<!--
-**vmorgunov/vmorgunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect, collaborate, and automate the world together!
