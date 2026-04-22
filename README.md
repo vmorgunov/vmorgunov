@@ -1,9 +1,14 @@
-## 👋 Hi there, I'm Vitalii!
+### 👋 Hi, I'm Vitalii
 
-🚀 **IT System Engineer** with a passion for automation and building smart solutions.
+**IT Infrastructure Lead @ MSP** — Azure & Hybrid Cloud, AI-driven automation.
 
-- 🤖 **Bot & automation enthusiast** – I love making things run themselves!
-- 🛠️ **Deep diver into Docker & scripting** (Bash, PowerShell, Python)
-- 💡 Always exploring new tech, cloud, and DevOps tools
+🏗️ I design and run infrastructure for 20+ customer environments  
+🤖 Building AI agents & MCP servers for real MSP operations (not demos)  
+⚙️ Automating routine away with n8n, Copilot Studio, PowerShell & TypeScript  
+☁️ Deep into Azure, Windows Server, AVD, Entra ID, Datto RMM  
 
-Let's connect, collaborate, and automate the world together!
+**Stack:**
+- **AI & Agents:** MCP (Model Context Protocol) · Claude · Copilot Studio · LLM tool-use · Prompt engineering
+- **Cloud & Infra:** Azure · Entra ID · AVD · Hybrid AD · Windows Server · Hyper-V
+- **Automation:** n8n · PowerShell · TypeScript/Node.js · Graph API · Datto RMM
+- **Tooling:** Docker · Git · Linux · Bash
