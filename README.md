@@ -11,7 +11,7 @@
 - [datto-rmm-mcp](https://github.com/veeemlab/datto-rmm-mcp) — 55 tools for Datto RMM (Copilot Studio compatible)
 - [itglue-mcp](https://github.com/veeemlab/itglue-mcp) — 40+ tools for IT Glue documentation
 
-**Stack:**
+## 🧰 Stack
 - **AI & Agents:** MCP (Model Context Protocol) · Claude · Copilot Studio · LLM tool-use · Prompt engineering
 - **Cloud & Infra:** Azure · Entra ID · AVD · Hybrid AD · Windows Server · Hyper-V
 - **Automation:** n8n · PowerShell · TypeScript/Node.js · Graph API
