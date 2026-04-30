@@ -17,11 +17,9 @@ Focused on automation, AI integration, and scalable system design in real MSP op
 ---
 
 ### Featured Projects
-- datto-rmm-mcp  
-  Model Context Protocol server with 55 tools for Datto RMM, designed for real operational use and Copilot Studio integration  
+- [datto-rmm-mcp](https://github.com/veeemlab/datto-rmm-mcp) — 55 tools for Datto RMM (Copilot Studio compatible)
 
-- itglue-mcp  
-  MCP server with 40+ tools for IT Glue, enabling structured documentation access and automation  
+- [itglue-mcp](https://github.com/veeemlab/itglue-mcp) — 40+ tools for IT Glue documentation
 
 ---
 
