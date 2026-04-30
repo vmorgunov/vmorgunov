@@ -1,4 +1,4 @@
-## Hi, I'm Vitalii  
+### 👋 Hi, I'm Vitalii  
 IT Infrastructure Lead @ MSP  
 Azure & Hybrid Cloud · AI-driven Automation  
 
